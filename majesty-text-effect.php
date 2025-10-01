@@ -1,12 +1,12 @@
 <?php
 /**
  * Plugin Name: Majesty Text Effect
- * Plugin URI: #
+ * Plugin URI: https://github.com/frankymbieleu/Majesty-Text-Effect
  * Description: Effet machine à écrire avec curseur clignotant et multiples styles
  * Version: 1.0.0
  * Author: FRANKY MBIELEU
- * Author URI: #
- * License: GPL v2 or later
+ * Author URI: https://github.com/frankymbieleu
+ * License: #
  * Text Domain: majesty-text-effect
  */
 
